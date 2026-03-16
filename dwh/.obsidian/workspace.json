@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2a1a12abe67933d9",
+        "id": "b600b6314b49af44",
         "type": "tabs",
         "children": [
           {
-            "id": "621774e98c1765d5",
+            "id": "a72f9f0958a540e6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "dwh/.obsidian/plugins/obsidian-git/main.js",
-                "bFile": "dwh/.obsidian/plugins/obsidian-git/main.js",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: main.js  (Working Tree)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "cf43b8f999c1bfde",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1356f506189d5df6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -180,19 +160,9 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
-          },
-          {
-            "id": "0238421af11cbd60",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -206,11 +176,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "621774e98c1765d5",
+  "active": "1b6aa43224ae7dea",
   "lastOpenFiles": [
     "Welcome.md"
   ]
