@@ -11,14 +11,14 @@
             "id": "621774e98c1765d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
+                "aFile": "dwh/.obsidian/plugins/obsidian-git/main.js",
+                "bFile": "dwh/.obsidian/plugins/obsidian-git/main.js",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Welcome"
+              "icon": "diff",
+              "title": "Diff: main.js  (Working Tree)"
             }
           }
         ]
@@ -180,13 +180,23 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "0238421af11cbd60",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +206,8 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "621774e98c1765d5",
